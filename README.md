@@ -7,3 +7,7 @@ DAR_PGD_COIL - implements the DAR method on COIL data, based on Projected Gradie
 DAR_UAP - implements the DAR method on ImageNet data based on Universal Adversarial Perturbations (UAP) method
 
 The methods currently retrieve the data from the user’s working directory, these filepaths must be updated.
+
+![Alt text](/DAR_adversarial/ImageNetDARS.png?raw=true "ImageNet objects with DARs applied")
+
+![Alt text](/DAR_adversarial/Racer example.png?raw=true "Racer example - clean vs PGD (whole image) vs DARs")
