@@ -8,6 +8,6 @@ DAR_UAP - implements the DAR method on ImageNet data based on Universal Adversar
 
 The methods currently retrieve the data from the user’s working directory, these filepaths must be updated.
 
-![Model](/DAR_adversarial/ImageNetDARS.png?raw=true "ImageNet objects with DARs applied")
+![My image](ImageNetDARS.png)
 
 ![Model](/DAR_adversarial/Racer example.png?raw=true "Racer example - clean vs PGD (whole image) vs DARs")
