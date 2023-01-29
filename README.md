@@ -12,6 +12,6 @@ The methods currently retrieve the data from the user’s working directory, the
 
 The above image demonstrates the application of DARs on a selection of ImageNet images for DARs of different size and number
 
-![My image](Racer example.png)
+![My image](Racer.png)
 
 This image compares the confidence of MobileNetV2 for a clean image, versus PGD applied to the whole image, versus DARs
