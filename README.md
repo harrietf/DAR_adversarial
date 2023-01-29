@@ -10,4 +10,8 @@ The methods currently retrieve the data from the user’s working directory, the
 
 ![My image](ImageNetDARS.png)
 
-![Model](/DAR_adversarial/Racer example.png?raw=true "Racer example - clean vs PGD (whole image) vs DARs")
+The above image demonstrates the application of DARs on a selection of ImageNet images for DARs of different size and number
+
+![My image](Racer example.png)
+
+This image compares the confidence of MobileNetV2 for a clean image, versus PGD applied to the whole image, versus DARs
